@@ -55,6 +55,20 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+### Visual Studio / MonoDevelop generated ###
+
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
 
 ### Windows ###
 # Windows image file caches
