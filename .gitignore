@@ -69,6 +69,8 @@ obj/
 *.unityproj
 *.booproj
 
+### VisualStudioCode ###
+.vscode
 
 ### Windows ###
 # Windows image file caches
